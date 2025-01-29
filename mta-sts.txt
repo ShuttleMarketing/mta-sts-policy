@@ -1,4 +1,0 @@
-version: STSv1
-mode: enforce
-mx: *.shuttlemarketing.co.uk
-max_age: 86400
